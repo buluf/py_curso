@@ -20,6 +20,7 @@ print(f'Seja bem-vindo(a) {nome}')
 
 # print('Qual a sua idade? ')
 idade = input('Qual a sua idade? ')
+
 # Processamento
 
 
