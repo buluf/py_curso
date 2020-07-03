@@ -4,8 +4,8 @@ input() -> Todo dado recebido via input é do tipo String
 """
 
 # entrada de dados
-print("Qual seu nome?")
-nome = input()
+# print("Qual seu nome?")
+nome = input('Qual seu nome? ')
 
 # Saída de dados
 
@@ -18,8 +18,8 @@ nome = input()
 # Exemplo de print "mais atual" 3.7
 print(f'Seja bem-vindo(a) {nome}')
 
-print('Qual a sua idade? ')
-idade = input()
+# print('Qual a sua idade? ')
+idade = input('Qual a sua idade? ')
 # Processamento
 
 
